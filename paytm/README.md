@@ -24,7 +24,7 @@
      (MID, ORDERID, TXNTYPE, REFUNDAMOUNT, TXNID, REFID)
   2. To generate checksum, call the following method. This function returns the checksum as a string.
      getRefundChecksumFromArray($arrayList, $key, $sort=1)
-
+# Use of DataBase
 # lib folder db.php page added  :
 
    1. Here you can find db page for database connection.
